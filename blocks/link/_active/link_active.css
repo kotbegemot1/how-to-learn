@@ -1,0 +1,9 @@
+.link_active {
+    color: #2f80ed;
+    text-decoration: none;
+}
+
+.link_active:hover {
+    opacity: 0.5;
+    transition: opacity 1s;
+}
