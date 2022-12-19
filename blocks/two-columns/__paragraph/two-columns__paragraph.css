@@ -6,6 +6,6 @@
     margin-bottom: 30px;
   }
   
-  .two-columns__paragraph:nth-of-type(3n) {
+  .two-columns__paragraph:last-child {
     margin-bottom: 0;
   }
